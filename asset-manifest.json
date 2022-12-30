@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Bentsa-S/test-react.git/static/css/main.d24fca11.css",
-    "main.js": "/Bentsa-S/test-react.git/static/js/main.668dd4d9.js",
-    "static/media/logo_header.png": "/Bentsa-S/test-react.git/static/media/logo_header.314840e93ade2418ad8c.png",
-    "index.html": "/Bentsa-S/test-react.git/index.html",
-    "main.d24fca11.css.map": "/Bentsa-S/test-react.git/static/css/main.d24fca11.css.map",
-    "main.668dd4d9.js.map": "/Bentsa-S/test-react.git/static/js/main.668dd4d9.js.map"
+    "main.css": "/test-react/static/css/main.d24fca11.css",
+    "main.js": "/test-react/static/js/main.24538980.js",
+    "static/media/logo_header.png": "/test-react/static/media/logo_header.314840e93ade2418ad8c.png",
+    "index.html": "/test-react/index.html",
+    "main.d24fca11.css.map": "/test-react/static/css/main.d24fca11.css.map",
+    "main.24538980.js.map": "/test-react/static/js/main.24538980.js.map"
   },
   "entrypoints": [
     "static/css/main.d24fca11.css",
-    "static/js/main.668dd4d9.js"
+    "static/js/main.24538980.js"
   ]
 }
