@@ -1,0 +1,10 @@
+.post img {
+    width: 80px;
+}
+
+.post {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+    background-color: white;
+}

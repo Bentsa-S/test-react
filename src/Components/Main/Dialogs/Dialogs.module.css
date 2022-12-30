@@ -1,0 +1,19 @@
+.dialogs {
+    width: 70%;
+    background-color: orange;
+    display: flex;
+}
+
+.dialogItem {
+    width: 30%;
+    padding: 10px;
+}
+
+.messageItem {
+    width: 70%;
+    background-color: white;
+}
+
+.messageItem img {
+    width: 100px;
+}

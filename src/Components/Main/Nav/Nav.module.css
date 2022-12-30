@@ -1,0 +1,11 @@
+.nav {
+    width: 30%;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    background-color: blue;
+}
+
+a {
+    margin: 10px;
+}
